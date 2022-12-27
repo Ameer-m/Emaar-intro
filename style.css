@@ -1,6 +1,6 @@
 .hero-section{
     height: 70vh;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.733), rgba(119, 119, 119, 0.753)), url('http://themestarz.net/html/propper/assets/img/gallery-big-01.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.733), rgba(119, 119, 119, 0.753)), url('./Image-3-scaled.jpg');
     background-size: cover;
 }
 
