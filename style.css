@@ -6,7 +6,7 @@
 
 .previous-projects {
     
-    background-image:url('./images/v748-toon-131.jpg');
+    background-image:url('./v748-toon-131.jpg');
     background-size: cover;
 }
 
@@ -16,12 +16,12 @@
   }
 
   .content-section {
-    background-image:url('./images/Black_and_gold_marble_texture.jpg');
+    background-image:url('./Black_and_gold_marble_texture.jpg');
     background-size: cover;
   }
 
   .Features {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url('./images/golden-monstera-leaves-background-design-resource.jpeg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url('./golden-monstera-leaves-background-design-resource.jpeg');
     background-size: cover;
   }
 
